@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://cdna.artstation.com/p/assets/covers/images/023/335/526/large/justin-nam-jnam-lightingexercise1-2.jpg?1578883643);
+    background-size: cover; /* Adjust to your preference */
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+  
+  h1{
+    color: white;
+  }
+  
+  h3{
+    color: white;
+  }
